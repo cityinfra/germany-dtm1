@@ -1,0 +1,25 @@
+source:https://www.opengeodata.nrw.de/produkte/geobasis/dgm/dgm1/
+meta:https://www.opengeodata.nrw.de/produkte/geobasis/dgm/dgm1/dgm1_meta.zip
+reference_system:ETRS89_UTM32
+reference_system:EPSG 4647
+reference_system:DHHN2016
+format:xyz
+format:dgm1
+licence:dl-de-by-2.0
+licence:Land NRW (2019)
+licence:https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/lizenzbedingungen_geobasis_nrw.pdf
+licence:https://www.govdata.de/dl-de/by-2-0
+licence_json: {
+      "domain_content": true, 
+      "domain_data": true, 
+      "domain_software": false, 
+      "family": "", 
+      "id": "dl-de-by-2.0", 
+      "is_generic": true, 
+      "is_okd_compliant": true, 
+      "is_osi_compliant": false, 
+      "maintainer": "", 
+      "status": "active", 
+      "title": "Datenlizenz Deutschland Namensnennung 2.0", 
+      "url": "https://www.govdata.de/dl-de/by-2-0"
+}
