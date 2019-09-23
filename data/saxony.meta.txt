@@ -1,0 +1,25 @@
+source:https://www.geodaten.sachsen.de/downloadbereich-dgm1-4166.html
+reference_system:ETRS89_UTM33
+reference_system:EPSG 25833
+reference_system:DHHN2016
+format:xyz
+format:dgm1
+licence:dl-de-by-2.0
+licence:Staatsbetrieb Geobasisinformation und Vermessung Sachsen (GeoSN)
+licence:GeoSN
+licence:https://www.geodaten.sachsen.de/rechtsgrundlagen-und-nutzungsbedingungen-4509.html
+licence:https://www.govdata.de/dl-de/by-2-0
+licence_json: {
+      "domain_content": true, 
+      "domain_data": true, 
+      "domain_software": false, 
+      "family": "", 
+      "id": "dl-de-by-2.0", 
+      "is_generic": true, 
+      "is_okd_compliant": true, 
+      "is_osi_compliant": false, 
+      "maintainer": "", 
+      "status": "active", 
+      "title": "Datenlizenz Deutschland Namensnennung 2.0", 
+      "url": "https://www.govdata.de/dl-de/by-2-0"
+}
