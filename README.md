@@ -30,6 +30,6 @@ North Rhine-Westphalia | DTM1 batch download
 Rhineland-Palatinate | no DTM1 available
 Saarland | no DTM1 available
 Saxony-Anhalt | no DTM1 available
-Saxony | DTM1 downloads have to be determined
+Saxony | DTM1 downloads have to be determined (no full coverage)
 Schleswig-Holstein | no DTM1 available
 Thuringia | DTM1 downloads have to be determined
