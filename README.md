@@ -23,7 +23,7 @@ Berlin | DTM1 batch download
 Brandenburg | no DTM1 available
 Bremen | no DTM1 available
 Hamburg | no DTM1 available
-Hesse | no DTM1 available
+Hesse | no DTM1 available
 Lower Saxony | no DTM1 available
 Mecklenburg-Vorpommern | no DTM1 available
 North Rhine-Westphalia | DTM1 batch download
