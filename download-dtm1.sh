@@ -5,7 +5,7 @@ file=""
 if [ -z "$data" ]
 then
   echo "usage:"
-  echo "./download-dtm1.sh be|nw|sn"
+  echo "./download-dtm1.sh be|nw|sn|th"
   exit 1
 
 fi
@@ -19,6 +19,8 @@ be)
   file="data/berlin.txt";;
 sn)
   file="data/saxony.txt";;
+th)
+  file="data/thuringia.txt";;
 esac
 
 
