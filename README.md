@@ -20,7 +20,7 @@ german state | Status
 Baden-Württemberg | no DTM1 available
 Bavaria | no DTM1 available
 Berlin | DTM1 batch download via webpage
-Brandenburg | no DTM1 available
+Brandenburg | DTM1 batch download available
 Bremen | no DTM1 available
 Hamburg | no DTM1 available
 Hesse | no DTM1 available
