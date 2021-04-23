@@ -26,7 +26,7 @@ Hamburg | no DTM1 available
 Hesse | no DTM1 available
 Lower Saxony | no DTM1 available
 Mecklenburg-Vorpommern | no DTM1 available
-North Rhine-Westphalia | DTM1 batch download via webpage
+North Rhine-Westphalia | DTM1 batch download https://www.opengeodata.nrw.de/produkte/geobasis/hm/dgm1_xyz/dgm1_xyz/
 Rhineland-Palatinate | no DTM1 available
 Saarland | no DTM1 available
 Saxony-Anhalt | no DTM1 available
