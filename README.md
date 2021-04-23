@@ -30,6 +30,6 @@ North Rhine-Westphalia | DTM1 batch download via webpage
 Rhineland-Palatinate | no DTM1 available
 Saarland | no DTM1 available
 Saxony-Anhalt | no DTM1 available
-Saxony | DTM1 downloads have to be determined (no full coverage)
+Saxony | batch files from https://www.geodaten.sachsen.de/batch-download-4582.html
 Schleswig-Holstein | no DTM1 available
 Thuringia | DTM1 batch download via atom feed
