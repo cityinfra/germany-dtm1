@@ -30,6 +30,6 @@ North Rhine-Westphalia | DTM1 batch download https://www.opengeodata.nrw.de/prod
 Rhineland-Palatinate | no DTM1 available
 Saarland | no DTM1 available
 Saxony-Anhalt | DTM2 via download, DTM1 via WMS https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html#dgm
-Saxony | batch files from https://www.geodaten.sachsen.de/batch-download-4582.html
+Saxony | batch files from https://geoportal.sachsen.de/cps/feed-viewer.html?dataset=true&url=https://geodownload.sachsen.de/inspire/el_atom/Dataset_el_dgm1.xml
 Schleswig-Holstein | no DTM1 available
 Thuringia | DTM1 batch download via atom feed
