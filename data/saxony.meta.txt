@@ -1,4 +1,4 @@
-source:https://www.geodaten.sachsen.de/downloadbereich-dgm1-4166.html
+source:https://geoportal.sachsen.de/cps/feed-viewer.html?dataset=true&url=https://geodownload.sachsen.de/inspire/el_atom/Dataset_el_dgm1.xml
 reference_system:ETRS89_UTM33
 reference_system:EPSG 25833
 reference_system:DHHN2016
