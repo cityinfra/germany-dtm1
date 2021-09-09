@@ -32,4 +32,4 @@ Saarland | no DTM1 available
 Saxony-Anhalt | DTM2 via download, DTM1 via WMS https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html#dgm
 Saxony | batch files from https://geoportal.sachsen.de/cps/feed-viewer.html?dataset=true&url=https://geodownload.sachsen.de/inspire/el_atom/Dataset_el_dgm1.xml
 Schleswig-Holstein | no DTM1 available
-Thuringia | DTM1 batch download via atom feed
+Thuringia | DTM1 batch download https://geoportal.geoportal-th.de/gaialight-th/_apps/atomfeedexplorer/?#feed=https://geoportal.geoportal-th.de/dienste/atom_th_hoehendaten_dgm (click on 'Liste der Einzeldateien öffnen', will do a json request, which contains the data)
