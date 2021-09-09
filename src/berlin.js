@@ -1,3 +1,4 @@
+//@ts-check
 'use strict';
 
 const fs = require('fs');
@@ -15,7 +16,8 @@ async function run() {
         return;
     }
 
-    const links = body.toString().match(/\"http\:\/\/fbarc\.stadt\-berlin\.de\/FIS\_Broker\_Atom\/DGM1\/.*?\"/g).map(v => v.slice(1, -1)).join('\n');
+    const links = body.toString()
+        .match(/\"https.*DGM1_\d+_\d+\.zip\"/g).map(v => v.slice(1, -1)).join('\n');
 
     fs.writeFileSync(`${__dirname}/../data/berlin.txt`, links + '\n');
 }

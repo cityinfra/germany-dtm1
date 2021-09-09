@@ -19,7 +19,7 @@ german state | Status
 ------------ | -------------
 Baden-Württemberg | no DTM1 available
 Bavaria | no DTM1 available
-Berlin | DTM1 batch download via webpage
+Berlin | DTM1 batch download https://fbinter.stadt-berlin.de/fb/berlin/service_intern.jsp?id=a_dgm@senstadt&type=FEED
 Brandenburg | DTM1 available https://data.geobasis-bb.de/geobasis/daten/dgm/xyz/
 Bremen | no DTM1 available
 Hamburg | no DTM1 available
