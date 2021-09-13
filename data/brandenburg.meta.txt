@@ -1,0 +1,15 @@
+source:https://data.geobasis-bb.de/geobasis/daten/dgm/xyz/
+meta:https://geoportal.brandenburg.de/detailansichtdienst/render?url=https://geoportal.brandenburg.de/gs-json/xml?fileid=488a2b53-564f-43eb-88ec-0d87bb43ed20
+reference_system:ETRS89_UTM33N
+reference_system:EPSG 25833
+format:xyz
+format:dgm1
+licence:dl-de-by-2.0
+licence:GeoBasis-DE/LGB
+licence:https://www.govdata.de/dl-de/by-2-0
+licence_json: {
+    "id": "dl-by-de/2.0",
+    "name": "Datenlizenz Deutschland - Namensnennung - Version 2.0",
+    "url": "https://www.govdata.de/dl-de/by-2-0",
+    "quelle": "Quelle: © GeoBasis-DE/LGB, dl-de/by-2-0; © Geoportal Berlin, dl-de/by-2-0"
+}
