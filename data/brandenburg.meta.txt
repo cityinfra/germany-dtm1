@@ -1,7 +1,8 @@
 source:https://data.geobasis-bb.de/geobasis/daten/dgm/xyz/
-meta:https://geoportal.brandenburg.de/detailansichtdienst/render?url=https://geoportal.brandenburg.de/gs-json/xml?fileid=488a2b53-564f-43eb-88ec-0d87bb43ed20
+meta:https://geoportal.brandenburg.de/detailansichtdienst/render?view=gdibb&url=https://geoportal.brandenburg.de/gs-json/xml?fileid=488a2b53-564f-43eb-88ec-0d87bb43ed20
 reference_system:ETRS89_UTM33N
 reference_system:EPSG 25833
+reference_system:DHHN2016
 format:xyz
 format:dgm1
 licence:dl-de-by-2.0
