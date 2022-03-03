@@ -18,7 +18,7 @@ async function run() {
     }
 
     const links = Array.from(
-        new Set(body.toString().match(/\"https.*dgm1_\d+\.zip\"/g)
+        new Set(body.toString().match(/\"https.*dgm1_\d+_\d+_2_sn_xyz\.zip\"/g)
             .map(v => v.slice(1, -1)))
     ).join('\n');
 
