@@ -15,9 +15,9 @@ node src/berlin
 ```
 
 ## DTM1 status of germany
-german state | Status
------------- | -------------
-Baden-Württemberg | no DTM1 available
+german state | Status        | Downloaded Size
+------------ | ------------- | ---------
+Baden-Württemberg | no DTM1 available 
 Bavaria | no DTM1 available
 Berlin | DTM1 batch download https://fbinter.stadt-berlin.de/fb/berlin/service_intern.jsp?id=a_dgm@senstadt&type=FEED
 Brandenburg | DTM1 available https://data.geobasis-bb.de/geobasis/daten/dgm/xyz/
@@ -26,7 +26,7 @@ Hamburg | no DTM1 available
 Hesse | no DTM1 available
 Lower Saxony | no DTM1 available
 Mecklenburg-Vorpommern | no DTM1 available
-North Rhine-Westphalia | DTM1 batch download https://www.opengeodata.nrw.de/produkte/geobasis/hm/dgm1_xyz/dgm1_xyz/
+North Rhine-Westphalia | DTM1 batch download https://www.opengeodata.nrw.de/produkte/geobasis/hm/dgm1_xyz/dgm1_xyz/ | ~112 GB
 Rhineland-Palatinate | no DTM1 available
 Saarland | no DTM1 available
 Saxony-Anhalt | DTM2 via download, DTM1 via WMS https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html#dgm
